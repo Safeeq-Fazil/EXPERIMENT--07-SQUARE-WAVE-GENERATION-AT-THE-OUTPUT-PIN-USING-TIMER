@@ -97,6 +97,10 @@ Step14. click on debug and simulate using simulation as shown below
 
 ## STM 32 CUBE PROGRAM :
 ```
+Developed by: Safeeq Fazil.A
+Register No: 212222240086
+```
+```
 /* USER CODE BEGIN Header */
 /**
   ******************************************************************************
@@ -361,7 +365,7 @@ void assert_failed(uint8_t *file, uint32_t line)
      ex: printf("Wrong parameters value: file %s on line %d\r\n", file, line) */
   /* USER CODE END 6 */
 }
-#endif /* USE_FULL_ASSERT */
+#endif /* USE_FULL_ASSERT */
 ```
 
 
@@ -369,10 +373,16 @@ void assert_failed(uint8_t *file, uint32_t line)
 
 
 ## Output screen shots of proteus  :
+![exp 7 1](https://github.com/Safeeq-Fazil/EXPERIMENT--07-SQUARE-WAVE-GENERATION-AT-THE-OUTPUT-PIN-USING-TIMER/assets/118680361/5111610d-ec06-430c-b07c-44640326e4ef)
+![exp 7 2](https://github.com/Safeeq-Fazil/EXPERIMENT--07-SQUARE-WAVE-GENERATION-AT-THE-OUTPUT-PIN-USING-TIMER/assets/118680361/348c5b2a-225b-4999-8984-ded7ddd88f4f)
+![exp 7 3](https://github.com/Safeeq-Fazil/EXPERIMENT--07-SQUARE-WAVE-GENERATION-AT-THE-OUTPUT-PIN-USING-TIMER/assets/118680361/78e14c67-b4d3-449d-8830-fe0e891ce14c)
+![exp 7 4](https://github.com/Safeeq-Fazil/EXPERIMENT--07-SQUARE-WAVE-GENERATION-AT-THE-OUTPUT-PIN-USING-TIMER/assets/118680361/3a560809-04ad-40e9-a148-5fd8b82c8952)
+
  
  
  ## CIRCUIT DIAGRAM (EXPORT THE GRAPHICS TO PDF AND ADD THE SCREEN SHOT HERE): 
- 
+ ![exp 7 b](https://github.com/Safeeq-Fazil/EXPERIMENT--07-SQUARE-WAVE-GENERATION-AT-THE-OUTPUT-PIN-USING-TIMER/assets/118680361/f2154dfd-e2ef-4a5d-b23d-d04253544b02)
+
 
 ## DUTY CYCLE AND FREQUENCY CALCULATION 
 FOR PULSE AT 500
